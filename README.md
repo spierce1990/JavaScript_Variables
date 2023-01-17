@@ -30,6 +30,8 @@ Steps are to be completed in the `app.js` file.
 Steps are to be completed in the `app.js` file.
 
 1. Declare a variable named `language` using the `let` keyword, and assign it the value `"JavaScript"` (string)
+
+
 2. Declare a variable named `createdYear` using the `let` keyword, and assign it the value `1995` (number)
 3. Declare a variable named `isCaseSensitive` using the `let` keyword, and assign it the value `true` (boolean)
 
